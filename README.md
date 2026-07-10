@@ -1,1 +1,1 @@
-# Steam-Library-Launcher-alt-download-
+# SteamLibraryLauncher Installer
